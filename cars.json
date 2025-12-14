@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Мерседес S 63 AMG",
+        "manufacturer": "Mercedes-Benz Group AG",
+        "is_petrol": true,
+        "tank_volume": 80
+    },
+    {
+        "id": 2,
+        "name": "BMW M5 F90",
+        "manufacturer": "BMW M GmbH",
+        "is_petrol": true,
+        "tank_volume": 68
+    },
+    {
+        "id": 3,
+        "name": "Byd Song Plus EV",
+        "manufacturer": "BYD Auto",
+        "is_petrol": false,
+        "tank_volume": 0
+    },
+    {
+        "id": 4,
+        "name": "Nissan 370Z",
+        "manufacturer": "Nissan Motors",
+        "is_petrol": true,
+        "tank_volume": 72
+    },
+    {
+        "id": 5,
+        "name": "Porsche 911",
+        "manufacturer": "Porsche AG",
+        "is_petrol": true,
+        "tank_volume": 70
+    }
+]
